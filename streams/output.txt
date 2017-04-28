@@ -1,1 +1,1 @@
-Here is the sample data to write on the table
+Here is the simple text file for saving the data to the file and this file is used for the streaming the data to the streams.
