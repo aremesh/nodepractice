@@ -1,0 +1,13 @@
+{
+  "name": "node-js-sample",
+  "version": "3.10.10",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+       "net":"^1.0.2"
+  }
+ 
+}
