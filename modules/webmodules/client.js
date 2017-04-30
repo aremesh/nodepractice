@@ -3,7 +3,7 @@ var http = require('http');
 var options = {
     host: 'localhost',
     port: '8081',
-    path: '/index.htm'
+    path: '/index.html'
 };
 // Callback function is used to deal with response
 var callback = function (response) {
